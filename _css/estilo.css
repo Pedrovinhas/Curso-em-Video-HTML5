@@ -1,13 +1,32 @@
 @charset "UTF-8";
 
 body {
-    background-color: white;
+    background-color: #dddddd;
     color: rgba(0, 0, 0, 1);
 }
+
+div#interface {
+    width: 900px;
+    background-color: #ffffff;
+    margin: -20px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    padding:10px;
+}
+
 p {
     text-align: justify;
     text-indent: 50px;
 }  
+
+header#cabeçalho img#icone {
+    position: relative;
+    left: 81%;
+    top: -40px;
+}
+
+header#cabeçalho {
+
+}
 
 /* Formatação de imagens com Legendas*/
 
@@ -53,7 +72,7 @@ nav#menu ul{
     text-transform: uppercase;
     position:absolute;
     top: -20px;
-    left: 300px;
+    left: 1000px;
     transition: background-color 1s;
 }
 
