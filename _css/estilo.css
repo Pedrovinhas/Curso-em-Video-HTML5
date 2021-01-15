@@ -134,6 +134,49 @@ section#corpo {
     padding-right: 15px;
 }
 
+table#tabelaspec {
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#tabelaspec td{
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+table#tabelaspec td.ce {
+    color: #ffffff;
+    background-color: #606060;
+    vertical-align: top;
+    font-weight: bold;
+
+}
+
+table#tabelaspec td.cd {
+    background-color: #cececece;
+
+}
+
+table#tabelaspec caption {
+    color: #888888;
+    font-size: 13pt;
+    font-weight: bolder;
+    margin-left: 25px;
+}
+
+table#tabelaspec caption span {
+    display:block;
+    float: right;
+    color: #000000;
+    font-size: 15px;
+    margin-top: 10px;
+
+}
+
 aside#lateral {
     display: block;
     width: 350px;
@@ -148,3 +191,4 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
+
