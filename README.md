@@ -16,14 +16,13 @@
 
 ## 📌 Introdução
 
-<p> Esse projeto foi desenvolvido pelo professor Gustavo Guanabara como forma de treinar as habilidades em HTML5, CSS3 e JavaScript. Ao total foram 36 aulas que ensinaram a função das tags, parâmetros e objetos dentro da linguagem de marcação, até a aplicabilidade dessas três habilidades em conjunto dentro do site criado.</p>
+<p> Esse projeto foi desenvolvido pelo professor **Gustavo Guanabara** como forma de treinar as habilidades em HTML5, CSS3 e JavaScript. Ao total foram 36 aulas que ensinaram a função das tags, parâmetros e objetos dentro da linguagem de marcação, até a aplicabilidade dessas três habilidades em conjunto dentro do site criado.</p>
 
 
 ## 🛠  Features 
-- [HTML5]()
-- [CSS3]()
-- [JavaScript]()
-
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [CSS3](https://www.w3schools.com/css/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 📷 Site
 
@@ -34,14 +33,12 @@
 ```bash
 # Clone o repositório
 git clone https://github.com/Pedrovinhas/curso-em-video-HTML5
+
 # Entre no diretório
 $ cd projeto-google-glass
 
 # Instale as dependências
 $ npm install
-
-# Execute as funções
-
 ```
 ---
 <h2 align=center> 
