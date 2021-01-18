@@ -10,8 +10,8 @@
 
 <p align=center>
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-ecma2018-yellow?logo=javascript&style=plastic">
-<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
-<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
+ <img alt="Github" src="https://img.shields.io/badge/html-5.0-F16529?logo=html5&style=flat">
+ <img alt="Github" src="https://img.shields.io/badge/css-3.0-2965f1?logo=CSS3&style=flat">
 </p>
 
 ## 📌 Introdução
