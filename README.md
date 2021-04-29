@@ -32,7 +32,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Pedrovinhas/curso-em-video-HTML5
+$ git clone https://github.com/Pedrovinhas/curso-em-video-HTML5
 
 # Entre no diretório
 $ cd projeto-google-glass
